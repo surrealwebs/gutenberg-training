@@ -1,0 +1,7 @@
+/assets/css/*.css
+/assets/js/*.css
+/bin
+/build
+/node_modules
+/tests
+/vendor

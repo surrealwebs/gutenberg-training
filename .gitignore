@@ -1,0 +1,16 @@
+.DS_Store
+.env
+.idea
+gutenberg-training.zip
+assets/css/*
+!assets/css/src/
+assets/js/*.css
+assets/js/*.js
+assets/js/*.asset.php
+assets/js/*.map
+bin/local-dev/mysql/
+bin/local-dev/wordpress/html/
+build/
+node_modules/
+tests/coverage
+vendor/
